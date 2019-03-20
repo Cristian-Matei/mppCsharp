@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mpp", "mpp\mpp.csproj", "{8E3C93F3-ACD8-4B93-8836-D1815B3843B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mppTests", "mppTests\mppTests.csproj", "{73A1FCE4-28A9-406E-B639-43123032267D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3C93F3-ACD8-4B93-8836-D1815B3843B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3C93F3-ACD8-4B93-8836-D1815B3843B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3C93F3-ACD8-4B93-8836-D1815B3843B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3C93F3-ACD8-4B93-8836-D1815B3843B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A1FCE4-28A9-406E-B639-43123032267D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A1FCE4-28A9-406E-B639-43123032267D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A1FCE4-28A9-406E-B639-43123032267D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A1FCE4-28A9-406E-B639-43123032267D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CBFCCB-2762-4349-A67C-8D74B257A27E}
+	EndGlobalSection
+EndGlobal
